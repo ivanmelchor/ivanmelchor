@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivanmelchor
-- 📫 How to reach me @followersito on Twitter
+- 📫 How to reach me: @followersito on Twitter
 
 <!---
 ivanmelchor/ivanmelchor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
